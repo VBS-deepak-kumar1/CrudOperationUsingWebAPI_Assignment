@@ -1,0 +1,10 @@
+C:\Users\Deepak Kumar\source\repos\BackEndWebAPI\DataAccessLayer\bin\Debug\netcoreapp3.1\DataAccessLayer.deps.json
+C:\Users\Deepak Kumar\source\repos\BackEndWebAPI\DataAccessLayer\bin\Debug\netcoreapp3.1\DataAccessLayer.dll
+C:\Users\Deepak Kumar\source\repos\BackEndWebAPI\DataAccessLayer\bin\Debug\netcoreapp3.1\DataAccessLayer.pdb
+C:\Users\Deepak Kumar\source\repos\BackEndWebAPI\DataAccessLayer\obj\Debug\netcoreapp3.1\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\Deepak Kumar\source\repos\BackEndWebAPI\DataAccessLayer\obj\Debug\netcoreapp3.1\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Deepak Kumar\source\repos\BackEndWebAPI\DataAccessLayer\obj\Debug\netcoreapp3.1\DataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\Deepak Kumar\source\repos\BackEndWebAPI\DataAccessLayer\obj\Debug\netcoreapp3.1\DataAccessLayer.AssemblyInfo.cs
+C:\Users\Deepak Kumar\source\repos\BackEndWebAPI\DataAccessLayer\obj\Debug\netcoreapp3.1\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Deepak Kumar\source\repos\BackEndWebAPI\DataAccessLayer\obj\Debug\netcoreapp3.1\DataAccessLayer.dll
+C:\Users\Deepak Kumar\source\repos\BackEndWebAPI\DataAccessLayer\obj\Debug\netcoreapp3.1\DataAccessLayer.pdb
